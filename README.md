@@ -2,11 +2,13 @@
 <html>
 
 <body>
-    <section class="sections welcome" style="background: url(assets/img/fantasy-sky_90839-278.jpg) center / cover no-repeat;">
+    <section class="sections" style="background: url(assets/img/fantasy-sky_90839-278.jpg) center / cover no-repeat;">
         <h1 style="font-size: 40px;"><strong>Hello World!&nbsp;</strong></h1>
         <h4 style="font-size: 24px;font-family: 'Berkshire Swash', cursive;">I'm Karthikayan Mailsamy</h4>
         <h4 class="text-dark" style="font-size: 20px;"><strong>Welcome to my Portfolio.</strong></h4>
-        <h6 style="font-family: Aclonica, sans-serif;"><br>In a Hurry? Here's my <a href="https://drive.google.com/file/d/1fwXtfZJ8nGVJJUsN_Lg7eYeoyeQf1E2E/view?usp=sharing">Resume</a>.</h6>
+        <h6 style="font-family: Aclonica, sans-serif;"><br>In a Hurry? Here's my <a href="h[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePenttps://drive.google.com/file/d/1fwXtfZJ8nGVJJUsN_Lg7eYeoyeQf1E2E/view?usp=sharing">Resume</a>.</h6>
     </section>
     <section id="sec1" class="sections about">
         <div class="media">
@@ -82,10 +84,7 @@
           <div class="credits">
             <span>©️</span>
             <span class="current-year">(2021)</span> Made
-                by 
-                <a href="#sec1"> Karthikayan Mailsamy
-                </a>
-          </div>
+                by Karthikayan Mailsamy</div>
 </footer>
 </body>
 
