@@ -1,25 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aclonica">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aldrich">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alex+Brush">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Andada">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Belgrano">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Berkshire+Swash">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Butcherman">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fjalla+One">
-    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/fonts/line-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/Bold-BS4-Footer-Simple.css">
-    <link rel="stylesheet" href="assets/css/Footer-with-social-media-icons.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
-</head>
-
 <body>
     <section class="sections welcome" style="background: url(assets/img/fantasy-sky_90839-278.jpg) center / cover no-repeat;">
         <h1 style="font-size: 40px;"><strong>Hello World!&nbsp;</strong></h1>
