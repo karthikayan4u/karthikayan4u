@@ -1,0 +1,79 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #7047b4!important;
+  opacity: 0.7;
+}
+
+.nav.navbar-nav.flex-grow-1.flex-fill.justify-content-end {
+  background-color: .1000;
+}
+
+.navbar-dark .navbar-brand {
+  color: #ffffff!important;
+  font-size: x-large;
+}
+
+.nav-item {
+  color: #ffffff;
+}
+
+.nav.navbar-nav.flex-grow-1.flex-fill.justify-content-end {
+  color: #ffffff;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+  color: #ffff;
+}
+
+body {
+  padding-top: 56px;
+}
+
+.sections.projects {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.sections.about {
+  padding-top: 50px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.sections.welcome {
+  padding-top: 125px;
+  text-align: center;
+  padding-bottom: 125px;
+}
+
+.sections.about h2 {
+  text-align: center;
+}
+
+.sections.about p {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.sections.education {
+  padding-left: 20px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+
+.sections.certifications {
+  padding-left: 20px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+
+.sections.experience {
+  padding-left: 20px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+
