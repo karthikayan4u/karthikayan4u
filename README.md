@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html>
 
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aclonica">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aldrich">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alex+Brush">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Andada">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Belgrano">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Berkshire+Swash">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Butcherman">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fjalla+One">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/fonts/line-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/Bold-BS4-Footer-Simple.css">
+    <link rel="stylesheet" href="assets/css/Footer-with-social-media-icons.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
 <body>
     <section class="sections welcome" style="background: url(assets/img/fantasy-sky_90839-278.jpg) center / cover no-repeat;">
         <h1 style="font-size: 40px;"><strong>Hello World!&nbsp;</strong></h1>
@@ -28,7 +47,7 @@
         <div class="media float-none">
             <div class="media-body">
                 <h2 style="font-family: 'Alex Brush', cursive;font-size: 40px;text-align: right;"><strong>Education</strong><br></h2>
-                <p style="font-family: Belgrano, serif;text-align: right;font-size: 16px;">1). R.M.K. Engineering College, Kavaraipettai.<br>Bachelor of Engineering - Electronics and Communications Engineering (3rd Year).<br>CGPA : 8.98.<br>August 2018 -&nbsp;Present.<br>Organizations - Centre of Excellence (Artificial Intelligence)&nbsp;<i class="la la-arrow-circle-right"></i>&nbsp;Entrepreneurship Cell&nbsp;<i class="la la-arrow-circle-right"></i>&nbsp;Coding Club&nbsp;<i class="la la-arrow-circle-right"></i>&nbsp;IETE&nbsp;<i class="la la-arrow-circle-right"></i>&nbsp;IEI.<br>2). Velammal Matriculation Higher Secondary School.<br>Higher Secondary - Biology and Mathematics.<br>Percentage : 90.25%.<br>June 2016 - April 2018.</p>
+                <p style="font-family: Belgrano, serif;text-align: right;font-size: 16px;">1). R.M.K. Engineering College, Kavaraipettai.<br>Bachelor of Engineering - Electronics and Communications Engineering (3rd Year).<br>CGPA : 8.98.<br>August 2018 -&nbsp;Present.<br>Organizations - Centre of Excellence (Artificial Intelligence)&nbsp;<-> Entrepreneurship Cell&nbsp;<-> Coding Club&nbsp;<-> IETE&nbsp;<-> IEI.<br>2). Velammal Matriculation Higher Secondary School.<br>Higher Secondary - Biology and Mathematics.<br>Percentage : 90.25%.<br>June 2016 - April 2018.</p>
             </div>
         </div>
     </section>
@@ -81,18 +100,12 @@
     </footer><footer class="text-center">
           <div class="credits">
             <span>©️</span>
-            <span class="current-year">(2021)</span> Made with 
-                <i style="color: red" class="fa fa-heart heart"
-              alt="love">
-                </i> 
+            <span class="current-year">(2021)</span> Made
                 by 
                 <a href="#sec1"> Karthikayan Mailsamy
                 </a>
           </div>
 </footer>
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/js/Footer---Made-with-love.js"></script>
 </body>
 
 </html>
